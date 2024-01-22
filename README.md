@@ -4,8 +4,6 @@ I'm a frontend engineer with a love for creating beautiful, pixel-perfect and fu
 ## 🔧 Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Libraries/Frameworks:** React
-- **Tools:** Git
 - **Design:** Figma
 
 ## 🌱 Currently Learning
