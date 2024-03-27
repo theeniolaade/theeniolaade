@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Eniola
-I'm a frontend engineer with a love for creating beautiful, pixel-perfect and functional user interfaces.
+I am an aspiring python developer who is still finding their feet in the world. Also a graphic designer on the weekends:)
 
 ## 🔧 Skills
 
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** Python (for now)
 - **Design:** Figma
 
 ## 🌱 Currently Learning
 
-Currently, I'm exploring CSS and Javascript by developing small projects.
+Currently, I'm exploring Python by embarking on a 100 Days Of Code Challenge.
 
 ## 📫 Let's Connect
 
