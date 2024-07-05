@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Eniola
-I am an aspiring python developer who is still finding their feet in the world. Also a graphic designer on the weekends:)
+I am a python developer who is still finding their feet in the world.
 
 ## 🔧 Skills
 
-- **Languages:** Python (for now)
-- **Design:** Figma
+- **Languages:** Python
 
 ## 🌱 Currently Learning
 
