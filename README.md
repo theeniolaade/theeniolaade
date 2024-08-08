@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Eniola
-I am a python developer who is still finding their feet in the world.
+I am a web developer who is still finding their feet in the world.
 
 ## 🔧 Skills
 
-- **Languages:** Python
+- **Languages:** Javascript
 
 ## 🌱 Currently Learning
 
-Currently, I'm exploring Python by embarking on a 100 Days Of Code Challenge.
+Currently, I'm exploring web development by taking courses on Freecodecamp
 
 ## 📫 Let's Connect
 
